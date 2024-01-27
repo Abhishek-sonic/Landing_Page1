@@ -1,0 +1,1 @@
+document.querySelector("#cat").innerText = hello;
